@@ -1,0 +1,45 @@
+{
+  "name": "Репозиторий ANTIMAX",
+  "subtitle": "Пустышка ввиде MAX",
+  "description": "Оффициальный репозиторий ANTIMAX",
+  "iconURL": "https://i.imgur.com/cuWDSFQ.png",
+  "website": "https://t.me/antimax_ios",
+  "patreonURL": "",
+  "tintColor": "#7f7f7f",
+  "featuredApps": [
+    "ru.oneme.app"
+  ],
+  "apps": [
+    {
+      "name": "MAX",
+      "bundleIdentifier": "ru.oneme.app",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "Пустышка MAX",
+      "localizedDescription": "Пустышка, замаскированная под мессенджер MAX, При открытии ошибка (поддельная), при нажатии ОК краш",
+      "iconURL": "https://i.imgur.com/yd5yOOU.png",
+      "tintColor": "#7f7f7f",
+      "category": "utilities",
+      "screenshots": [
+        "https://i.imgur.com/3SSmuJk.png"
+      ],
+      "versions": [
+        {
+          "downloadURL": "https://www.dropbox.com/scl/fi/i0lvsfgr72l880jderxd1/antimax_1.0.0.ipa?rlkey=3r8wfvn3bwpsorkdht1bt4e2v&st=azhmusl5&dl=1",
+          "size": 1100000,
+          "version": "1.0.0",
+          "buildVersion": null,
+          "date": "2026-03-04T09:59:00+03:00",
+          "localizedDescription": "• Первый релиз!\n• Пустышка замаскированная под MAX\n• Времмено черная иконка (она все равно адаптивная)",
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
