@@ -3,4 +3,4 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-канал-blue?logo=telegram)](https://t.me/antimax_ios)
 [![TikTok](https://img.shields.io/badge/Наш-TikTok-purple?logo=tiktok)](https://www.tiktok.com/@antimax_ios?_r=1&_t=ZN-94SaAt4BdWU)
-[![Website](https://img.shields.io/badge/Наш-сайт-green?logo=safari)](https://antimax.site)
+[![Website](https://img.shields.io/badge/Наш-сайт-green?logo=chrome)](https://antimax.site)
