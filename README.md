@@ -3,4 +3,5 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-канал-blue?logo=telegram)](https://t.me/antimax_ios)
 [![TikTok](https://img.shields.io/badge/Наш-TikTok-purple?logo=tiktok)](https://www.tiktok.com/@antimax_ios?_r=1&_t=ZN-94SaAt4BdWU)
+[![Releases](https://img.shields.io/badge/Релизы-v1.0.0-darkred)](https://github.com/sergo-linux/ANTIMAX/releases)
 [![Donate](https://img.shields.io/badge/Поддержать-ANTIMAX-orange?logo=bitcoin)](https://t.me/send?start=IVojZmg5XI4l)
