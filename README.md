@@ -25,7 +25,7 @@ ANTIMAX: Пустышка в виде мессенджера MAX, сделана
 <img src="https://raw.githubusercontent.com/CelloSerenity/altdirect/refs/heads/main/assets/svg/Download_White.svg" width="200">
 
 #### Подробнее о проекте:
-- `.ipa` ANTIMAX сделан полностью с помощью ИИ
+- `.ipa` ANTIMAX и `.dylib` сделаны полностью с помощью ИИ
 - `.css` и `.js` тоже были сделаны с помощью ИИ
 
 В README это все ( ͡° ͜ʖ ͡°)
